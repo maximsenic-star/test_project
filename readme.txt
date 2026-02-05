@@ -1,1 +1,1 @@
-Создали тест проект для работы с Git and GitHub
+Created a test project for working with Git and GitHub
